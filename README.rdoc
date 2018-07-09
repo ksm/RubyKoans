@@ -1,16 +1,12 @@
 = Karol's Ruby Koans repo
 
-Note: `watchr` doesn't work. Use `observr`.
+Note: +watchr+ doesn't work. Use +observr+.
 
-```
-observr koans.watcher
-```
+   observr koans.watcher
 
 or
 
-```
-rake
-```
+   rake
 
 = Neo Ruby Koans
 
