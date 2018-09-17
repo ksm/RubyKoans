@@ -2,7 +2,7 @@
 
 Note: +watchr+ doesn't work. Use +observr+.
 
-   observr koans.watcher
+   observr koans.watchr
 
 or
 
